@@ -1,2 +1,7 @@
 # Quantium starter repo
-This repo contains everything you need to get started on the program! Good luck!
+## Virtual Environment Setup
+
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
