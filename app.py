@@ -12,7 +12,7 @@ region_options = [{'label': 'All regions', 'value': 'all'}] + \
                  [{'label': region.title(), 'value': region} for region in regions]
 
 app.layout = html.Div([
-    html.H1('Soul Foods'),
+    html.H1('Soul Foods', id='header'),
 
     html.Div('Pink Morsel Sales', className='description'),
 
