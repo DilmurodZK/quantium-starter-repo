@@ -1,6 +1,6 @@
 # Quantium Starter Repository
 
-This repository contains the starter code and data for completing the **Quantium Analytics Program** tasks.  
+This repository contains the starter code and data for completing the **Quantium Software Engineering Job Simulation on Forage** tasks.  
 It provides a structured environment to practice data analysis, visualization, and testing workflows.
 
 
