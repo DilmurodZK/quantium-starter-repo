@@ -1,9 +1,21 @@
 # Quantium Starter Repository
 
-This repository contains the starter code and data for completing the **Quantium Software Engineering Job Simulation on Forage** tasks.  
-It provides a structured environment to practice data analysis, visualization, and testing workflows.
+## 📌 Project Overview
+This project is part of the **Quantium Data Analytics Virtual Internship (Forage)**.  
+The goal was to analyze retail transaction data, identify sales uplift in trial stores compared to control stores, and provide actionable business recommendations.
 
+## 📊 Results
+- Cleaned and analyzed large transaction datasets
+- Built metrics to evaluate trial vs control stores
+- Visualized sales uplift and customer behavior using Plotly/Dash
+- Delivered insights to support marketing decisions
 
+## 🎯 Skills Demonstrated
+- Data cleaning & preprocessing with Pandas
+- Exploratory Data Analysis (EDA)
+- Business-oriented data storytelling
+- Automated testing with Pytest
+- CI/CD with GitHub Actions
 
 ## ⚙️ Setup Instructions
 
